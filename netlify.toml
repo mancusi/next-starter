@@ -6,6 +6,6 @@
   package = "netlify-plugin-cypress"
 
 [[redirects]]
-  from = "/stores/*"
-  to = "https://sharply-awful-fowl.pgsdemo.com/:splat"
+  from = "/stores/immobilien/*"
+  to = "https://master-uniquely--fantastic--toucan-pgsdemo-com.preview.pagescdn.com/:splat"
   status = 200
