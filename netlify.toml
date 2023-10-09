@@ -11,6 +11,6 @@
   status = 200
 
 [[redirects]]
-  from = "/foo/assets/*"
+  from = "/assets/*"
   to = "https://76ee-4-30-177-11.ngrok-free.app/assets/:splat"
   status = 200
