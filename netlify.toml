@@ -5,6 +5,11 @@
 [[plugins]]
   package = "netlify-plugin-cypress"
 
+[[headers]]
+  for = "/*"
+  [headers.values]
+  x-yext-reverse-proxy = "true"
+
 [[redirects]]
    from = "/*"
    to = "https://urbanely-copper-mastiff.pgsdemo.com/:splat"
