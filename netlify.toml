@@ -12,5 +12,5 @@
 
 [[redirects]]
    from = "/prefix/*"
-   to = "https://main-cleverly--dizzy--gamefowl-pgsdemo-com.preview.pagescdn.com/:splat"
+   to = "https://jtest-cleverly--dizzy--gamefowl-pgsdemo-com.preview.pagescdn.com/:splat"
    status = 200
