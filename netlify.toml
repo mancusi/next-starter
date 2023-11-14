@@ -11,6 +11,6 @@
   x-yext-reverse-proxy = "true"
 
 [[redirects]]
-   from = "/*"
+   from = "/prefix/*"
    to = "https://main-cleverly--dizzy--gamefowl-pgsdemo-com.preview.pagescdn.com/:splat"
    status = 200
